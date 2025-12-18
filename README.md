@@ -42,7 +42,52 @@ jobportal/
     │   ├── 📁 redux/      # Store and Slices
     │   └── 📁 pages/      # Home, Jobs, Admin Dashboards
 ---
+### Installation
 
+1.  **Clone the repository:**
+
+    ```sh
+    git clone https://github.com/Aniketshah1234/Job-Portal
+    cd ai-virtual-assistant
+    ```
+
+2.  **Install backend dependencies:**
+
+    ```sh
+    cd backend
+    npm install
+    ```
+
+3.  **Install frontend dependencies:**
+
+    ```sh
+    cd ../frontend
+    npm install
+    ```
+
+### Set up environment variables
+
+Create a `.env` file in the `/backend` directory. Refer to the example below for the required variables.
+
+### Running the Project
+
+1.  **Run the Backend Server:**
+
+    ```sh
+    cd backend
+    npm run dev
+    ```
+
+2.  **Run the Frontend Development Server:**
+
+    ```sh
+    cd ../frontend
+    npm run dev
+    ```
+
+Open `http://localhost:5173/` in your browser to view the project.
+
+-----
 
 -----
 
