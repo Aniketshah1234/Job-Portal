@@ -42,26 +42,6 @@ jobportal/
     │   ├── 📁 redux/      # Store and Slices
     │   └── 📁 pages/      # Home, Jobs, Admin Dashboards
 ---
-🚀 Installation & Local Development
-1. Clone & Install
-git clone [https://github.com/Aniketshah1234/jobportal.git](https://github.com/your-username/jobportal.git)
-cd jobportal
----
-# Install Backend
-cd backend && npm install
-
-# Install Frontend
-cd ../frontend && npm install
----
-2. Configure Environment
-Create a .env file in the backend directory:
-
-
------
-
-## 📌 Live Demo
-
-[🚀 Click here to view the deployed project](https://6943fd8475772f053a2d0f1a--celadon-bonbon-0835ee.netlify.app//)
 
 
 -----
