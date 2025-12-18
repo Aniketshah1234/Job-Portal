@@ -55,7 +55,7 @@ cd ../frontend && npm install
 ---
 2. Configure Environment
 Create a .env file in the backend directory:
----
+
 
 -----
 
@@ -66,7 +66,7 @@ Create a .env file in the backend directory:
 
 -----
 
----
+
 
 
 
