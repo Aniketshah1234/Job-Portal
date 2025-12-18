@@ -63,11 +63,9 @@ Experience the platform live! Click the button below to explore the job listings
 
 <p align="center">
   <a href="https://6943fd8475772f053a2d0f1a--celadon-bonbon-0835ee.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-blue?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
   </a>
 </p>
-
-
 ---
 
 
